@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## flp project by littleflute v0.11
+ 
+[mp3](mp3)
 
 You can use the [editor on GitHub](https://github.com/littleflute/gt1/edit/blog/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,18 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+ 
 
 [Link](url) and ![Image](src)
 ```
